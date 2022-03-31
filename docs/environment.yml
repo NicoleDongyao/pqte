@@ -1,0 +1,9 @@
+channels:
+  - defaults
+dependencies:
+  - python>=3.6
+  - ipython
+  - pip:
+    - sphinx
+    - sphinx_rtd_theme
+    - nbsphinx
